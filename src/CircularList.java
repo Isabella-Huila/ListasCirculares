@@ -1,6 +1,7 @@
 public class CircularList {
 
     private Node head;
+    private  Node tail; // prueba git.
 
 // la cabeza no va a cambiar, TENER EN CUENTA
     public void addNode( Node node){
